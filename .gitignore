@@ -1,5 +1,13 @@
-*.cbp
-bin/
-obj/
 *.depend
 *.layout
+obj/
+bin/
+Debug/
+Release/
+*~
+~*
+*.cbp
+*.geany
+*.anjuta
+*.db
+*.swp
